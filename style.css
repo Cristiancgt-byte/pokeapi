@@ -1,3 +1,103 @@
 body{
-    background-color: blue;
+    background-color: white;
+}
+
+/* Normal */
+body.normal {
+    background-color: #A8A77A; /* Verde oliva suave */
+}
+
+/* Fighting */
+body.fighting {
+    background-color: #C22E28; /* Rojo fuerte */
+}
+
+/* Flying */
+body.flying {
+    background-color: #A98FF3; /* Azul claro */
+}
+
+/* Poison */
+body.poison {
+    background-color: #A33EA1; /* Morado */
+}
+
+/* Ground */
+body.ground {
+    background-color: #6E2C00; /* Marrón tierra */
+}
+
+/* Rock */
+body.rock {
+    background-color: #B6A136; /* Amarillo marrón */
+}
+
+/* Bug */
+body.bug {
+    background-color: #A6B91A; /* Verde limón */
+}
+
+/* Ghost */
+body.ghost {
+    background-color: #735797; /* Púrpura fantasmal */
+}
+
+/* Steel */
+body.steel {
+    background-color: #B7B7CE; /* Gris metálico */
+}
+
+/* Fire */
+body.fire {
+    background-color: #EE8130; /* Naranja fuego */
+}
+
+/* Water */
+body.water {
+    background-color: #6390F0; /* Azul agua */
+}
+
+/* Grass */
+body.grass {
+    background-color: #7AC74C; /* Verde hierba */
+}
+
+/* Electric */
+body.electric {
+    background-color: #F7D02C; /* Amarillo eléctrico */
+}
+
+/* Psychic */
+body.psychic {
+    background-color: #F95587; /* Rosa psicodélico */
+}
+
+/* Ice */
+body.ice {
+    background-color: #96D9D6; /* Azul hielo */
+}
+
+/* Dragon */
+body.dragon {
+    background-color: #6F35FC; /* Morado dragón */
+}
+
+/* Dark */
+body.dark {
+    background-color: #705746; /* Marrón oscuro */
+}
+
+/* Fairy */
+body.fairy {
+    background-color: #D685D6; /* Rosa pastel */
+}
+
+/* Stellar */
+body.stellar {
+    background-color: #5B7D6E; /* Azul estelar */
+}
+
+/* Unknown */
+body.unknown {
+    background-color: #A9A9A9; /* Gris desconocido */
 }
