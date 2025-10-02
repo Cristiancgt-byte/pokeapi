@@ -31,5 +31,3 @@ async function pokemon(id){
 
 }
 
-
-pokemon(25)
